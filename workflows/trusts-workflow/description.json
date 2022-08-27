@@ -1,0 +1,8 @@
+{
+  "title": "Trust's workflow",
+  "description": "The lego-build workflow I use in building my React projects, including this very community page! Contains components, pages, hooks, functions, and the default redux blocks. The components use modular css.",
+  "author": {
+    "name": "Akpeti Trust",
+    "profileLink": "https://github.com/AkpetiTrust"
+  }
+}
