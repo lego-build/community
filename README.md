@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.svg" style="width: 300px"  alt="Logo" /></p>
+<p align="center"><img src="logo.svg" style="width: 400px"  alt="Logo" /></p>
 <h1 align="center">Community</h1>
 
 A collection of different workflows and setups for front-end apps using [lego-build](https://lego-build.github.io). No need to reinvent the wheel, see how other developers structure their projects. <br /><br />
