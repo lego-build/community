@@ -17,8 +17,8 @@ The description.json has the following properties
 
 | property    | type     | description                                                                                                                                                                                                                                        |
 | ----------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| title       | `string` | The title of your workflow. It must contain only two words and must not be unique. Use it to shortly describe your workflow. Example: "Redux setup"                                                                                                |
-| description | `string` | A longer description of your workflow. There's no limit but try to make it just a few sentences long.                                                                                                                                              |
+| title       | `string` | The title of your workflow. It must contain only two words, and being unique isn't a necessity. Use it to shortly describe your workflow. Example: "Redux setup"                                                                                   |
+| description | `string` | A longer description of your workflow. There's no limit, but try to make it just a few sentences long.                                                                                                                                             |
 | author      | `object` | An object describing the owner of the workflow (you). It has two properties, `name` and `profileLink`. `name` for the name you want to appear, and `profileLink` for the link to your Github profile. Leave this property blank to stay anonymous. |
 
 <br />
