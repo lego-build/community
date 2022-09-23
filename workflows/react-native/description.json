@@ -1,0 +1,8 @@
+{
+  "title": "React-Native Setup",
+  "description": "A lego-build workflow for React Native projects. It includes components, screens, hooks, and the usual Redux blocks. It's structured in a way that all the source code for the app will be found in the \"app\" directory.",
+  "author": {
+    "name": "Akpeti Trust",
+    "profileLink": "https://github.com/AkpetiTrust"
+  }
+}
