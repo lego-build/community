@@ -1,0 +1,8 @@
+{
+  "title": "Vue workflow",
+  "description": "Decided to take advantage of the flexibility of lego-build to make a workflow for Vue developers. You can easily set up Vue components and pages with this workflow (it uses the structure that NuxtJS apps use). It's pretty basic, as I don't have much experience with Vue, but feel free to tweak it to fit your needs.",
+  "author": {
+    "name": "Akpeti Trust",
+    "profileLink": "https://github.com/AkpetiTrust"
+  }
+}

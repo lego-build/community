@@ -1,0 +1,22 @@
+{
+  "blocks": [
+    {
+      "type": "component",
+      "path": "components",
+      "isFile": true,
+      "file": {
+        "name": "<name>.vue",
+        "template": "templates/component.vue"
+      }
+    },
+    {
+      "type": "page",
+      "path": "pages",
+      "isFile": true,
+      "file": {
+        "name": "<name>.vue",
+        "template": "templates/page.vue"
+      }
+    }
+  ]
+}
