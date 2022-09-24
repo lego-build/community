@@ -1,6 +1,6 @@
 {
   "title": "NextJs Setup",
-  "description": "A lego-build workflow for NextJs projects. It includes components, icons, slugs, pages, and the usual Redux blocks. It's structured in a way that all the source code for the app will be found in the \"app\" directory.",
+  "description": "A lego-build workflow for NextJs projects. It includes components, icons, slugs, pages, and the usual Redux blocks. It's structured in a way that all the source code for the app will be found in the NextJs directories.",
   "author": {
     "name": "Udochukwuka Onyela",
     "profileLink": "https://github.com/Onyelaudochukwuka"
