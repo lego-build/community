@@ -1,0 +1,101 @@
+{
+  "blocks": [
+    {
+      "type": "component",
+      "path": "./components",
+      "isFile": true,
+      "file": "TSX"
+    },
+    {
+      "type": "icon",
+      "path": "./components/icon",
+      "isFile": true,
+      "file": "ICON"
+    },
+    {
+      "type": "page",
+      "path": "pages",
+      "isFile": true,
+      "file": "TSXPAGE"
+    },
+    {
+      "type": "slug",
+      "path": "pages",
+      "isFile": true,
+      "file": "TSXPAGESLUG"
+    },
+    {
+      "type": "models",
+      "path": "./models",
+      "files": [
+        "TS"
+      ]
+    },
+    {
+      "type": "reducer",
+      "path": "utils/services",
+      "isFile": true,
+      "file": "REDUCER"
+    },
+    {
+      "type": "action",
+      "path": "utils/actions",
+      "isFile": true,
+      "file": "ACTION"
+    }
+  ],
+  "fileFormats": {
+    "JSX": {
+      "name": "<name>.jsx",
+      "template": "DEFAULT"
+    },
+    "JS": {
+      "name": "<name>.js",
+      "template": "DEFAULT"
+    },
+    "TEST": {
+      "name": "<name>.test.js",
+      "template": "DEFAULT"
+    },
+    "TS": {
+      "name": "<name>.ts",
+      "template": "./template/typescript.ts"
+    },
+    "TSX": {
+      "name": "<name>.tsx",
+      "template": "./template/component.tsx"
+    },
+    "TSXPAGE": {
+      "name": "<name>.tsx",
+      "template": "./template/page.tsx"
+    },
+    "TSXPAGESLUG": {
+      "name": "[<name>].tsx",
+      "template": "./template/slugPage.tsx"
+    },
+    "ICON": {
+      "name": "<name>.tsx",
+      "template": "./template/icon.tsx"
+    },
+    "CSS": {
+      "name": "<name>.css"
+    },
+    "SCSS": {
+      "name": "<name>.scss"
+    },
+    "MODULE_CSS": {
+      "name": "<name>.module.css"
+    },
+    "MODULE_SCSS": {
+      "name": "<name>.module.scss"
+    },
+    "REDUCER": {
+      "name": "<name>.jsx",
+      "template": "DEFAULT"
+    },
+    "ACTION": {
+      "name": "<name>.jsx",
+      "template": "DEFAULT"
+    }
+  }
+}
