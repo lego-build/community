@@ -2,44 +2,42 @@
   "blocks": [
     {
       "type": "component",
-      "path": "./components",
+      "path": "src/components",
       "isFile": true,
       "file": "TSX"
     },
     {
       "type": "icon",
-      "path": "./components/icon",
+      "path": "src/components/icon",
       "isFile": true,
       "file": "ICON"
     },
     {
       "type": "page",
-      "path": "pages",
+      "path": "src/pages",
       "isFile": true,
       "file": "TSXPAGE"
     },
     {
       "type": "slug",
-      "path": "pages",
+      "path": "src/pages",
       "isFile": true,
       "file": "TSXPAGESLUG"
     },
     {
       "type": "models",
-      "path": "./models",
-      "files": [
-        "TS"
-      ]
+      "path": "src/models",
+      "files": ["TS"]
     },
     {
       "type": "reducer",
-      "path": "utils/services",
+      "path": "src/utils/services",
       "isFile": true,
       "file": "REDUCER"
     },
     {
       "type": "action",
-      "path": "utils/actions",
+      "path": "src/utils/actions",
       "isFile": true,
       "file": "ACTION"
     }

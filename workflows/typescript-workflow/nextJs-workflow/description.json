@@ -1,8 +1,0 @@
-{
-  "title": "NextJs Setup",
-  "description": "A lego-build workflow for react typescript projects. It includes components, slugs, actions, and the usual Redux blocks. It's structured in a way that all the source code for the app will be found in the \"src\" directory.",
-  "author": {
-    "name": "Udochukwuka Onyela",
-    "profileLink": "https://github.com/Onyelaudochukwuka"
-  }
-}
