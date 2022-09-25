@@ -42,7 +42,7 @@
       "file": "ACTION"
     }
   ],
-  "fileFormats": {
+"fileFormats": {
     "JSX": {
       "name": "<name>.jsx",
       "template": "DEFAULT"
@@ -57,19 +57,11 @@
     },
     "TS": {
       "name": "<name>.ts",
-      "template": "./template/typescript.ts"
+      "template": "./template/tsTemplate.ts"
     },
     "TSX": {
       "name": "<name>.tsx",
-      "template": "./template/component.tsx"
-    },
-    "TSXPAGE": {
-      "name": "<name>.tsx",
-      "template": "./template/page.tsx"
-    },
-    "TSXPAGESLUG": {
-      "name": "[<name>].tsx",
-      "template": "./template/slugPage.tsx"
+      "template": "./template/tsxTemplate.tsx"
     },
     "ICON": {
       "name": "<name>.tsx",
@@ -95,5 +87,4 @@
       "name": "<name>.jsx",
       "template": "DEFAULT"
     }
-  }
-}
+  }}
