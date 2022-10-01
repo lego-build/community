@@ -48,3 +48,10 @@ File example:
 
 <br />
 It's as simple as that to add your workflow! Just submit your pull request, and if you followed the guidelines, it'll be merged to master. Thanks for sharing your setup with the community 🙌🏾.
+
+## Thanks to all contributors
+
+Thanks a lot for spending your time helping lego-build grow 🚀.
+
+[![Contributors](https://contrib.rocks/image?repo=lego-build/community)](https://github.com/lego-build/community/graphs/contributors)
+
