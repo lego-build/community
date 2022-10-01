@@ -13,7 +13,11 @@
     {
       "type": "function",
       "path": "app/utils/functions",
-      "files": ["JS"]
+      "isFile":true,
+      "file": {
+        "name": "<name>.js",
+        "template": "template/function.js"
+      }
     },
     {
       "type": "hook",
@@ -21,7 +25,7 @@
       "isFile":true,
       "file": {
         "name": "<name>.js",
-        "template": "templates/hook.js"
+        "template": "template/hook.js"
       }
     },
     {
@@ -30,7 +34,7 @@
       "isFile":true,
       "file": {
         "name": "<name>Context.js",
-        "template": "templates/context.js"
+        "template": "template/context.js"
       }
     },
     {
@@ -47,11 +51,11 @@
   "fileFormats": {
     "JSX": {
       "name": "<name>.jsx",
-      "template": "templates/component.jsx"
+      "template": "template/component.jsx"
     },
     "JS": {
       "name": "<name>.js",
-      "template": "templates/function.js"
+      "template": "template/function.js"
     },
     "TEST": {
       "name": "<name>.test.js",
