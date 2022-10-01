@@ -1,0 +1,80 @@
+{
+  "blocks": [
+    {
+      "type": "component",
+      "path": "app/components",
+      "files": ["JSX", "CSS", "TEST"]
+    },
+    {
+      "type": "page",
+      "path": "app/pages",
+      "files": ["JSX", "CSS", "TEST"]
+    },
+    {
+      "type": "function",
+      "path": "app/utils/functions",
+      "isFile":true,
+      "file": {
+        "name": "<name>.js",
+        "template": "template/function.js"
+      }
+    },
+    {
+      "type": "hook",
+      "path": "app/utils/hooks",
+      "isFile":true,
+      "file": {
+        "name": "<name>.js",
+        "template": "template/hook.js"
+      }
+    },
+    {
+      "type": "context",
+      "path": "app/utils/context",
+      "isFile":true,
+      "file": {
+        "name": "<name>Context.js",
+        "template": "template/context.js"
+      }
+    },
+    {
+      "type": "css",
+      "path": "app/assets/styles/css",
+      "files":["CSS"]
+    },
+    {
+      "type": "scss",
+      "path": "app/assets/styles/scss",
+      "files":["SCSS"]
+    }
+  ],
+  "fileFormats": {
+    "JSX": {
+      "name": "<name>.jsx",
+      "template": "template/component.jsx"
+    },
+    "JS": {
+      "name": "<name>.js",
+      "template": "template/function.js"
+    },
+    "TEST": {
+      "name": "<name>.test.js",
+      "template": "DEFAULT"
+    },
+    "CSS": {
+      "name": "<name>.css"
+    },
+    "SCSS": {
+      "name": "<name>.scss"
+    },
+    "REDUCER":{
+      "name": "<name>.jsx",
+      "template": "DEFAULT"
+    },
+    "ACTION":{
+      "name": "<name>.jsx",
+      "template": "DEFAULT"
+    }
+  }    
+}
+    

@@ -1,0 +1,8 @@
+{
+  "title": "React Setup",
+  "description": "A lego-build workflow for React projects. It includes components, functions, hooks, and the usual context blocks. It's structured in a way that all the source code for the app will be found in the \"app\" directory.",
+  "author": {
+    "name": "Ayondip Jana",
+    "profileLink": "https://github.com/detronetdip"
+  }
+}
